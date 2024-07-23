@@ -15,7 +15,7 @@ Welcome to the CTF Assessment Report repository! This project features a detaile
 
   
 <p align="center">
-    <img src="https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Seal_report_gif.gif" />
+    <img src="https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Seal_report_image.gif" />
 </p>
 
 ## Report Highlights
