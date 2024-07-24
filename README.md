@@ -2,8 +2,7 @@
 
 <p align="center">
     <img src="https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Caracetti_Security_Wide.png" />
-  </p>
-
+</p>
 
 ## Overview
 
@@ -11,9 +10,8 @@ Welcome to the CTF Assessment Report repository! This project features a detaile
 
 ## Contents
 
-- Detailed assessment reports for the Hack The Box machines "[Previse](https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Lostar_Previse_Report.pdf)" and "[Seal](https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Lostar_Seal_Report.pdf)" including identified vulnerabilities, exploitation techniques, and recommended remediation.
+- Detailed assessment reports for the Hack The Box machines "[Previse](https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Lostar_Previse_Report.pdf)," "[Seal](https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Lostar_Seal_Report.pdf)," and "[Writer](https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Lostar_Writer_Report.pdf)" including identified vulnerabilities, exploitation techniques, and recommended remediation.
 
-  
 <p align="center">
     <img src="https://github.com/MertKRC/CTF-Assessment-Report/blob/main/Seal_report_image.gif" />
 </p>
@@ -32,7 +30,3 @@ This repository is intended for educational and demonstration purposes. Contribu
 ## Contact
 
 For any questions or further information, please reach out to me at [mrtkrc41@gmail.com](mailto:mrtkrc41@gmail.com) or connect with me on LinkedIn: [Mert KARACA](https://www.linkedin.com/in/mertkrc/).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
